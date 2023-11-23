@@ -1,5 +1,5 @@
 # portalNoticias-PHP
-um projeto de PHP com CSS, estilo, sistema de cadastro e login protegido, com área do administrador, banco de dados, área do colunista, newsletter e trabalhe conosco. feito para a aula de Web II na ETEC de Guarulhos.
+um projeto de PHP com CSS, estilo, sistema de cadastro e login protegido, com área do administrador, banco de dados, área do colunista, newsletter e trabalhe conosco. feito para a aula de Web II do prof Israel na ETEC de Guarulhos.
 <br><br>
 <div align="center">
   <h3>Página inicial com as notícias sendo pegas com um código de SQL</h3>
